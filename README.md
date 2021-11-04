@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning AWS
 
 ---
-## My Github Stats ??
+## My Github Stats  📊
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jbenaventem&count_private=true&theme=react&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jbenaventem&langs_count=5&theme=react)]()
