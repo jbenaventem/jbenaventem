@@ -1,6 +1,6 @@
 
 ![suifu](https://cdn.jsdelivr.net/gh/betterTisen/betterTisen/images/github.png)
-### Hi there ???? I'm J.Benavente
+### Hi there 👋👋 I'm J.Benavente
 
 <h3>Things I code with</h3>
 <p>
@@ -22,8 +22,8 @@
   <!--img alt="PostgresSQL" src="https://img.shields.io/badge/-Postgres-13aa52?style=flat-square&logo=postgressql&logoColor=white" /-->
 </p>
 
-- ?? I�m interested in Cloud Development
-- ?? I�m currently learning AWS
+- 👀 I’m interested in Cloud Development
+- 🌱 I’m currently learning AWS
 
 ---
 ## My Github Stats ??
