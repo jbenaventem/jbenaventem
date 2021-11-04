@@ -1,6 +1,6 @@
 
 ![suifu](https://cdn.jsdelivr.net/gh/betterTisen/betterTisen/images/github.png)
-### Hi there 👋👋 I'm J.Benavente
+### Hi there 👋👋 I'm JBenavente
 
 <h3>Things I code with</h3>
 <p>
